@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Advanced Calculator</string>
+    <string name="one"><i>1</i></string>
+    <string name="two"><i>2</i></string>
+    <string name="three"><i>3</i></string>
+    <string name="four"><i>4</i></string>
+    <string name="five"><i>5</i></string>
+    <string name="six"><i>6</i></string>
+    <string name="seven"><i>7</i></string>
+    <string name="eight"><i>8</i></string>
+    <string name="nine"><i>9</i></string>
+    <string name="zero"><i>0</i></string>
+    <string name="plus"><i>+</i></string>
+    <string name="minus"><i>-</i></string>
+    <string name="multiply"><i>*</i></string>
+    <string name="divide"><i>/</i></string>
+    <string name="root"><i>√</i></string>
+    <string name="module"><i>MOD</i></string>
+    <string name="equal"><i>=</i></string>
+    <string name="clear"><i>C</i></string>
+    <string name="all_clear"><i>AC</i></string>
+    <string name="dot"><i>.</i></string>
+    <string name="backspace"><i>←</i></string>
+    <string name="sin"><i>sin</i></string>
+    <string name="cos"><i>cos</i></string>
+    <string name="tan"><i>tan</i></string>
+    <string name="positive_negative"><i>(+/-)</i></string>
+    <string name="power"><i>^</i></string>
+    <string name="percent"><i>%</i></string>
+    <string name="factorial"><i>!</i></string>
+    <string name="pi"><i>π</i></string>
+    <string name="log"><i>log</i></string>
+</resources>

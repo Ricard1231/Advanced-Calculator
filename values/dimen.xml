@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height">72dp</dimen>
+    <dimen name="width">104dp</dimen>
+    <dimen name="text_size">30sp</dimen>
+    <dimen name="first_line_margin_top">160dp</dimen>
+    <dimen name="second_line_margin_top">234dp</dimen>
+    <dimen name="third_line_margin_top">308dp</dimen>
+    <dimen name="fourth_line_margin_top">382dp</dimen>
+    <dimen name="fifth_line_margin_top">456dp</dimen>
+    <dimen name="sixth_line_margin_top">530dp</dimen>
+    <dimen name="first_button_margin_left">0dp</dimen>
+    <dimen name="second_button_margin_left">106dp</dimen>
+    <dimen name="third_button_margin_left">212dp</dimen>
+    <dimen name="fourth_button_margin_left">318dp</dimen>
+    <dimen name="drawer_second_line_margin_top">74dp</dimen>
+    <dimen name="drawer_third_line_margin_top">148dp</dimen>
+    <dimen name="drawer_fourth_line_margin_top">222dp</dimen>
+    <dimen name="drawer_fifth_line_margin_top">296dp</dimen>
+    <dimen name="land_height">36dp</dimen>
+    <dimen name="land_width">112dp</dimen>
+    <dimen name="land_text_size">20sp</dimen>
+    <dimen name="land_zero_line_margin_top">118dp</dimen>
+    <dimen name="land_first_line_margin_top">155dp</dimen>
+    <dimen name="land_second_line_margin_top">192dp</dimen>
+    <dimen name="land_third_line_margin_top">229dp</dimen>
+    <dimen name="land_fourth_line_margin_top">266dp</dimen>
+    <dimen name="land_fifth_line_margin_top">303dp</dimen>
+    <dimen name="land_first_button_margin_left">0dp</dimen>
+    <dimen name="land_second_button_margin_left">114dp</dimen>
+    <dimen name="land_third_button_margin_left">228dp</dimen>
+    <dimen name="land_fourth_button_margin_left">342dp</dimen>
+    <dimen name="land_fifth_button_margin_left">456dp</dimen>
+    <dimen name="land_sixth_button_margin_left">570dp</dimen>
+</resources>
